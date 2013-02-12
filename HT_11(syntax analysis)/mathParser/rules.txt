@@ -1,0 +1,33 @@
+state 1
+    goto 2 case -
+    goto 3 case digit
+
+state 2
+    goto 3 case digit
+
+state 3
+    goto 3 case digit
+    goto 10 case none
+    goto 4 case .
+    goto 6 case e E
+
+state 4
+    goto 5 case digit
+
+state 5
+    goto 5 case digit
+    goto 6 case e E
+    goto 10 case none
+
+state 6
+    goto 7 case + -
+    goto 8 case digit
+
+state 7
+    goto 8 case digit
+
+state 8
+    goto 8 case digit
+    goto 10 case none
+finish 10
+
