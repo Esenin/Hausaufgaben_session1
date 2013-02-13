@@ -1,7 +1,0 @@
-TRUEjasndsaasdkbsakdbdhajksdbsadkjasjdhjkasdjhasjdh
-FALSEaaaaaIfYouSeeThisLineSomethingGoWRONG
-TRUEABracadabrrrrra
-FALSEdsasdhjabdksbdasdask asdjasjkdd asdhjk
-FALSEaaaDLASJHDUSAHasdbkjasbdssss
-TRUEaaaThisIsGoodLine
-FALSEbadbadbadbadbaa
